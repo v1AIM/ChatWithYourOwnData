@@ -1,0 +1,9 @@
+langchain
+langchain_community
+langchain_huggingface
+langchain_core
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+tiktoken
